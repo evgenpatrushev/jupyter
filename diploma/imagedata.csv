@@ -1,0 +1,101 @@
+isic_id,age_approx,anatom_site_general,benign_malignant,diagnosis,diagnosis_confirm_type,melanocytic,sex
+ISIC_0000000,55,anterior torso,benign,nevus,,True,female
+ISIC_0000001,30,anterior torso,benign,nevus,,True,female
+ISIC_0000002,60,upper extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000003,30,upper extremity,benign,nevus,,True,male
+ISIC_0000004,80,posterior torso,malignant,melanoma,histopathology,True,male
+ISIC_0000005,40,anterior torso,benign,nevus,,True,female
+ISIC_0000006,25,posterior torso,benign,nevus,,True,female
+ISIC_0000007,25,posterior torso,benign,nevus,,True,female
+ISIC_0000008,30,anterior torso,benign,nevus,,True,female
+ISIC_0000009,30,anterior torso,benign,nevus,,True,female
+ISIC_0000010,35,posterior torso,benign,nevus,,True,female
+ISIC_0000011,35,lower extremity,benign,nevus,,True,female
+ISIC_0000012,30,posterior torso,benign,nevus,,True,male
+ISIC_0000013,30,posterior torso,malignant,melanoma,histopathology,True,female
+ISIC_0000014,35,posterior torso,benign,nevus,,True,male
+ISIC_0000015,35,posterior torso,benign,nevus,,True,male
+ISIC_0000016,55,anterior torso,benign,nevus,,True,female
+ISIC_0000017,50,posterior torso,benign,nevus,,True,female
+ISIC_0000018,30,posterior torso,benign,nevus,,True,male
+ISIC_0000019,30,posterior torso,benign,nevus,,True,female
+ISIC_0000020,25,anterior torso,benign,nevus,,True,female
+ISIC_0000021,55,posterior torso,benign,nevus,,True,female
+ISIC_0000022,55,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000023,30,anterior torso,benign,nevus,,True,female
+ISIC_0000024,45,posterior torso,benign,nevus,,True,male
+ISIC_0000025,35,lower extremity,benign,nevus,,True,female
+ISIC_0000026,30,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000027,35,anterior torso,benign,nevus,,True,female
+ISIC_0000028,60,anterior torso,benign,nevus,,True,male
+ISIC_0000029,45,posterior torso,malignant,melanoma,histopathology,True,female
+ISIC_0000030,55,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000031,70,upper extremity,malignant,melanoma,histopathology,True,male
+ISIC_0000032,30,posterior torso,benign,nevus,,True,female
+ISIC_0000033,45,lower extremity,benign,nevus,,True,female
+ISIC_0000034,30,posterior torso,benign,nevus,,True,female
+ISIC_0000035,25,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000036,70,upper extremity,malignant,melanoma,histopathology,True,male
+ISIC_0000037,70,posterior torso,benign,nevus,,True,male
+ISIC_0000038,40,posterior torso,benign,nevus,,True,female
+ISIC_0000039,60,posterior torso,benign,nevus,,True,female
+ISIC_0000040,65,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000041,40,lower extremity,benign,nevus,,True,female
+ISIC_0000042,50,anterior torso,benign,nevus,,True,male
+ISIC_0000043,35,lower extremity,malignant,melanoma,histopathology,True,male
+ISIC_0000044,20,posterior torso,benign,nevus,,True,male
+ISIC_0000045,30,lower extremity,benign,nevus,,True,male
+ISIC_0000046,60,upper extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000047,70,lower extremity,benign,nevus,,True,male
+ISIC_0000048,50,anterior torso,benign,nevus,,True,female
+ISIC_0000049,80,posterior torso,malignant,melanoma,histopathology,True,female
+ISIC_0000050,30,anterior torso,benign,nevus,,True,male
+ISIC_0000051,55,upper extremity,benign,nevus,,True,male
+ISIC_0000052,40,posterior torso,benign,nevus,,True,female
+ISIC_0000053,25,posterior torso,benign,nevus,,True,female
+ISIC_0000054,25,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000055,40,posterior torso,benign,nevus,,True,female
+ISIC_0000056,55,lower extremity,malignant,melanoma,histopathology,True,female
+ISIC_0000057,40,lower extremity,benign,nevus,,True,female
+ISIC_0000058,40,posterior torso,benign,nevus,,True,female
+ISIC_0000059,30,lower extremity,benign,nevus,,True,female
+ISIC_0000060,35,posterior torso,benign,nevus,,True,female
+ISIC_0000061,35,lower extremity,benign,nevus,,True,female
+ISIC_0000062,40,posterior torso,benign,nevus,,True,female
+ISIC_0000063,45,anterior torso,benign,nevus,,True,female
+ISIC_0000064,40,anterior torso,benign,nevus,,True,female
+ISIC_0000065,30,posterior torso,benign,nevus,,True,female
+ISIC_0000066,55,posterior torso,benign,nevus,,True,female
+ISIC_0000067,45,posterior torso,benign,nevus,,True,female
+ISIC_0000068,35,anterior torso,benign,nevus,,True,female
+ISIC_0000069,15,anterior torso,benign,nevus,,True,female
+ISIC_0000070,25,anterior torso,malignant,melanoma,histopathology,True,male
+ISIC_0000071,25,posterior torso,benign,nevus,,True,male
+ISIC_0000072,85,posterior torso,benign,nevus,,True,male
+ISIC_0000073,20,posterior torso,benign,nevus,,True,female
+ISIC_0000074,25,lower extremity,malignant,melanoma,histopathology,True,male
+ISIC_0000075,50,anterior torso,benign,nevus,,True,female
+ISIC_0000076,55,posterior torso,malignant,melanoma,histopathology,True,male
+ISIC_0000077,80,upper extremity,malignant,melanoma,histopathology,True,male
+ISIC_0000078,85,anterior torso,malignant,melanoma,histopathology,True,male
+ISIC_0000079,55,lower extremity,benign,nevus,,True,female
+ISIC_0000080,,,benign,nevus,,True,
+ISIC_0000081,,,benign,nevus,,True,
+ISIC_0000082,,,benign,nevus,,True,
+ISIC_0000083,,,benign,nevus,,True,
+ISIC_0000084,,,benign,nevus,,True,
+ISIC_0000085,,,benign,nevus,,True,
+ISIC_0000086,,,benign,nevus,,True,
+ISIC_0000087,,,benign,nevus,,True,
+ISIC_0000088,,,benign,nevus,,True,
+ISIC_0000089,,,benign,nevus,,True,
+ISIC_0000090,,,benign,nevus,,True,
+ISIC_0000091,,,benign,nevus,,True,
+ISIC_0000092,,,benign,nevus,,True,
+ISIC_0000093,,,benign,nevus,,True,
+ISIC_0000094,,,benign,nevus,,True,
+ISIC_0000095,,,benign,nevus,,True,
+ISIC_0000096,,,benign,nevus,,True,
+ISIC_0000097,,,benign,nevus,,True,
+ISIC_0000098,,,benign,nevus,,True,
+ISIC_0000099,,,benign,nevus,,True,
